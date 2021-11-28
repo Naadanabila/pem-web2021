@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	@import "style-ku.css";
+    
+    p {
+    font-family: serif;
+    line-height: 1.75em;
+}
+    i {
+    font-family: sans;
+    color: orange;
+}
+    h2 {
+    font-family: sans;
+    color: #333;
+}
+</style>
+
+</head>
+<body>
+
+<p><h2>Resize the browser window.</h2> When the width of this document is <i>600</i> pixels or less, the background-color is "lightblue", otherwise it is "lightgreen".</p>
+
+</body>
+</html>
